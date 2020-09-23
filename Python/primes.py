@@ -1,7 +1,7 @@
 # Caution: This program has bugs.
 
 def main() :
-print("primes")
+print("primes fix")
 
    n = int(input("Please enter the upper limit: "))
    i = 1

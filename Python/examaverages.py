@@ -1,7 +1,7 @@
 ##
 #  This program computes the average exam grade for multiple students.
 #
-print("exam Averages")
+print("exam Averages fix")
 
 # Obtain the number of exam grades per student.
 numExams = int(input("How many exam grades does each student have? "))

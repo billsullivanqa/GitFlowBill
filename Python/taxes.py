@@ -1,7 +1,7 @@
 ##
 #  This program computes income taxes, using a simplified tax schedule.
 #
-print("taxes")
+print("taxes fix")
 
 # Initialize constant variables for the tax rates and rate limits.
 RATE1 = 0.10

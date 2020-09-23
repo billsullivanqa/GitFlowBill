@@ -1,6 +1,8 @@
 # Caution: This program has bugs.
 
 def main() :
+print("primes")
+
    n = int(input("Please enter the upper limit: "))
    i = 1
    while i <= n :
